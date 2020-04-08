@@ -40,3 +40,7 @@ mode:
 1000000, ..., 1999999 for add all, ...
 
 Parts of 1 00 00 00 and more: 1 for add all; 00s for from(lower 00), priority(middle 00), and mailer(higher 00), 00 for power 01, 01 for power 02, ..., 99 for power 100.
+
+## LICENSE
+
+特别声明：程序作者，即本人，不对代码二次使用者的一切学术或非学术行为负责。对本人开源的代码的一切包括但不限于复制、参考、修改、运行等的使用行为，由此产生的一切包括但不限于学术、经济、法律等的后果，本人概不负责，且由此对本人造成的一切损害，保留追究责任权利。（ 在法律允许的范围内， ）一切解释权归本人所有。
